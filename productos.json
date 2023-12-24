@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"Voodo", "precio": 10000, "img":"img/voodotocabacknegra.webp", "cantidad":1},
+    {"id":2, "nombre":"Icarus", "precio": 10000, "img":"img/icarusblanca.webp", "cantidad":1},
+    {"id":3, "nombre":"Mode", "precio": 8000, "img":"img/modenegraback.webp", "cantidad":1},
+    {"id":4, "nombre":"Prometeo", "precio": 10000, "img":"img/prometeoblancaback.webp", "cantidad":1},
+    {"id":5, "nombre":"Grey Mom", "precio": 22000, "img":"img/momgrey.jpg", "cantidad":1},
+    {"id":6, "nombre":"Miami Mom", "precio": 22000, "img":"img/mommiami.jpg", "cantidad":1},
+    {"id":7, "nombre":"Black Carpintero", "precio": 25000, "img":"img/momblack.jpg", "cantidad":1},
+    {"id":8, "nombre":"Cargo Blue", "precio": 21000, "img":"img/cargo.jpg", "cantidad":1}
+]
